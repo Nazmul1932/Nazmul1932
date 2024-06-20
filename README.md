@@ -22,6 +22,7 @@ _Statistics from: June 20, 2024_
 - **Programming Languages:**
   ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   
 - **Frameworks:**
  ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
