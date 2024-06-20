@@ -28,6 +28,7 @@ _Statistics from: June 20, 2024_
  ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
  ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
  ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium)
 - **Tools:**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
