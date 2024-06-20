@@ -20,16 +20,16 @@ _Statistics from: June 20, 2024_
 ## 🛠️ Technologies and Tools
 
 - **Programming Languages:**
-  ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   
 - **Frameworks:**
- ![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat-square&logo=selenium)
- ![Angular](https://img.shields.io/badge/-Angular-white?style=flat-square&logo=angular)
- ![Cypress](https://img.shields.io/badge/-Cypress-white?style=flat-square&logo=cypress)
- ![Playwright](https://img.shields.io/badge/-Playwright-white?style=flat-square&logo=playwright)
-![Appium](https://img.shields.io/badge/-Appium-white?style=flat-square&logo=appium)
+ <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" height="40"/>
+  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" height="40"/>
+  <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" height="40"/>
+  <img src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright" height="40"/>
+  <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="40"/>
 - **Tools:**
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
