@@ -1,3 +1,3 @@
 ## Hi there 👋
-- 🌱 I’m currently learning JAVA, Typescript, Python, SQL
+- 🌱 I’m currently learning java, Typescript, Python, SQL
 
