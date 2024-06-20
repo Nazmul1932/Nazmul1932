@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Nazmul Hossain, a passionate QA Engineer from [Your Country]. I enjoy working on exciting projects and learning new technologies.
+Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting projects and learning new technologies.
 
 - 🌱 Currently learning Technologies: java, python, cypress, selenium, playwright
 - 📫 How to reach me: bsse1032@iit.du.ac.bd
