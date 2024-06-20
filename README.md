@@ -20,7 +20,7 @@ _Statistics from: June 20, 2024_
 ## 🛠️ Technologies and Tools
 
 - **Programming Languages:**
--  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" height="40"/>
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" height="40"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="40"/>
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="40"/>
 
@@ -32,7 +32,7 @@ _Statistics from: June 20, 2024_
   <img src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright" height="40"/>
   <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="40"/>
 - **Tools:**
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="40"/>
 
 ## 🔗 Connect with Me
 
