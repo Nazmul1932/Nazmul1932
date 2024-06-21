@@ -19,13 +19,13 @@ _Statistics from: June 20, 2024_
 
 ## 🛠️ Technologies and Tools
 
-<span style="font-size: 20px;">**Programming Languages:**</span>
+<span style="font-size: 50px;">**Programming Languages:**</span>
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" height="40"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="40"/>
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="40"/>
 
   
-- **Frameworks:**
+<span style="font-size: 50px;">**Frameworks:**</span>
  <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" height="40"/>
   <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" height="40"/>
   <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" height="40"/>
@@ -33,7 +33,7 @@ _Statistics from: June 20, 2024_
   <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="40"/>
 
   
-- **Tools:**
+-<span style="font-size: 50px;">**Tools:**</span>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="40"/>
 
 ## 🔗 Connect with Me
