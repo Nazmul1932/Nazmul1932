@@ -42,11 +42,12 @@ _Statistics from: June 20, 2024_
 
 ## 🔗 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />][twitter]
+[<img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 
-[linkedin]: https://linkedin.com/in/[(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)]
-[twitter]: https://twitter.com/[(https://x.com/nazmulh_32)]
+[linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)
+[twitter]: https://twitter.com/(https://x.com/nazmulh_32)
 [github]: https://github.com/Nazmul1932
+
 
