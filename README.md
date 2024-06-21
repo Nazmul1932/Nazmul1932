@@ -6,7 +6,7 @@
 
 Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting projects and learning new technologies.
 
-- 🌱 Currently learning Technologies: **java**, **python**, **cypress**, **selenium**, **playwright**
+- 🌱 Currently learning Technologies: **Java**, **Python**, **Cypress**, **Selenium**, **Playwright**
 - 📫 How to reach me: bsse1032@iit.du.ac.bd
 
 ## 📊 GitHub Stats
