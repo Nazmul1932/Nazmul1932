@@ -23,22 +23,22 @@ _Statistics from: June 20, 2024_
 <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="20"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
 
   
 <span style="font-size: 50px;">**Frameworks:**</span>
 <br>
- <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" height="20"/>
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" height="20"/>
-  <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" height="20"/>
-  <img src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright" height="20"/>
-  <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="20"/>
+   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Appium-2E79B2?style=for-the-badge&logo=appium&logoColor=white" height="40"/>
 
   
 <span style="font-size: 50px;">**Tools:**</span>
 <br>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="20"/>
-  <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" height="20"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
 
 ## 🔗 Connect with Me
 
