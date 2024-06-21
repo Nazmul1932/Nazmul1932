@@ -44,8 +44,10 @@ _Statistics from: June 20, 2024_
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="GitHub" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][facebook]
 
 [linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)
 [github]: https://github.com/Nazmul1932
+[facebook]: https://www.facebook.com/https://www.facebook.com/NazmulHossainIIT
 
 
