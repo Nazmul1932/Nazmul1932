@@ -21,19 +21,19 @@ _Statistics from: June 20, 2024_
 
 <span style="font-size: 50px;">**Programming Languages:**</span>
 <br>
-  <img src="https://img.shields.io/badge/Java-0288D1?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
-   <img src="https://img.shields.io/badge/TypeScript-64B5F6?style=for-the-badge&logo=typescript&logoColor=black" height="40"/>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Java-3366cc?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-8cb3d9?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+   <img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+   <img src="https://img.shields.io/badge/TypeScript-ff5050?style=for-the-badge&logo=typescript&logoColor=black" height="40"/>
+    <img src="https://img.shields.io/badge/SQL-ffff00?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
 
 
   
 <span style="font-size: 50px;">**Frameworks:**</span>
 <br>
-   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
+   <img src="https://img.shields.io/badge/Selenium-009933?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Cypress-A5D6A7?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Cypress-004d1a?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Appium-2E79B2?style=for-the-badge&logo=appium&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/k6-FF6400?style=for-the-badge&logo=k6&logoColor=white" height="40"/>
@@ -41,7 +41,7 @@ _Statistics from: June 20, 2024_
   
 <span style="font-size: 50px;">**Tools:**</span>
 <br>
-  <img src="https://img.shields.io/badge/Git-B71C1C?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-ff6666?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/JMeter-FF0000?style=for-the-badge&logo=apachejmeter&logoColor=white" height="40"/>
 
