@@ -42,6 +42,7 @@ _Statistics from: June 20, 2024_
 <br>
   <img src="https://img.shields.io/badge/Git-B71C1C?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="40"/>
 
 ## 🔗 Connect with Me
 
