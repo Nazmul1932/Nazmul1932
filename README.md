@@ -19,7 +19,7 @@ _Statistics from: June 20, 2024_
 
 ## 🛠️ Technologies and Tools
 
-<span style="font-size: 50px;">**Programming Languages:**</span>
+<span style="font-size: 100px;">**Programming Languages:**</span>
 <br>
   <img src="https://img.shields.io/badge/Java-3366cc?style=for-the-badge&logo=java&logoColor=white" style="height: 40px; width: auto;" />
   <img src="https://img.shields.io/badge/Python-8cb3d9?style=for-the-badge&logo=python&logoColor=white" style="height: 40px; width: auto;"/>
@@ -29,7 +29,7 @@ _Statistics from: June 20, 2024_
 
 
   
-<span style="font-size: 50px;">**Frameworks:**</span>
+<span style="font-size: 100px;">**Frameworks:**</span>
 <br>
    <img src="https://img.shields.io/badge/Selenium-009933?style=for-the-badge&logo=selenium&logoColor=white" style="height: 40px; width: auto;"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="height: 40px; width: auto;"/>
@@ -39,7 +39,7 @@ _Statistics from: June 20, 2024_
   <img src="https://img.shields.io/badge/k6-FF6400?style=for-the-badge&logo=k6&logoColor=white" style="height: 40px; width: auto;"/>
 
   
-<span style="font-size: 50px;">**Tools:**</span>
+<span style="font-size: 100px;">**Tools:**</span>
 <br>
   <img src="https://img.shields.io/badge/Git-ff6666?style=for-the-badge&logo=git&logoColor=white" style="height: 40px; width: auto;"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="height: 40px; width: auto;"/>
