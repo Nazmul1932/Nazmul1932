@@ -33,7 +33,7 @@ _Statistics from: June 20, 2024_
 <br>
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Cypress-A5D6A7?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Appium-2E79B2?style=for-the-badge&logo=appium&logoColor=white" height="40"/>
 
