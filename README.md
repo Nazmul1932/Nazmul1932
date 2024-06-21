@@ -42,8 +42,8 @@ _Statistics from: June 20, 2024_
 
 ## 🔗 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="GitHub" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][github]
 
 [linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)
 [github]: https://github.com/Nazmul1932
