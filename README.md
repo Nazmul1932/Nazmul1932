@@ -48,6 +48,6 @@ _Statistics from: June 20, 2024_
 
 [linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)
 [github]: https://github.com/Nazmul1932
-[facebook]: https://www.facebook.com/https://www.facebook.com/NazmulHossainIIT
+[facebook]: https://www.facebook.com/NazmulHossainIIT
 
 
