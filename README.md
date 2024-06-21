@@ -31,6 +31,8 @@ _Statistics from: June 20, 2024_
   <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" height="40"/>
   <img src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright" height="40"/>
   <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="40"/>
+
+  
 - **Tools:**
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="40"/>
 
