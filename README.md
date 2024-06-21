@@ -40,7 +40,7 @@ _Statistics from: June 20, 2024_
   
 <span style="font-size: 50px;">**Tools:**</span>
 <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-B71C1C?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
 
 ## 🔗 Connect with Me
