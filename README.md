@@ -21,7 +21,7 @@ _Statistics from: June 20, 2024_
 
 <span style="font-size: 50px;">**Programming Languages:**</span>
 <br>
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" height="20"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="20"/>
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="20"/>
 
