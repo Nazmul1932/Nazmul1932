@@ -31,7 +31,7 @@ _Statistics from: June 20, 2024_
   <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" height="40"/>
   <img src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright" height="40"/>
   <img src="https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium" height="40"/>
-- **Frameworks:**
+- **Tools:**
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="40"/>
 
 ## 🔗 Connect with Me
@@ -41,6 +41,6 @@ _Statistics from: June 20, 2024_
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [linkedin]: https://linkedin.com/in/[(https://www.linkedin.com/in/nazmul-hossain-6a00a7209/)]
-[twitter]: https://twitter.com/[YourTwitter](https://x.com/nazmulh_32)
+[twitter]: https://twitter.com/[(https://x.com/nazmulh_32)]
 [github]: https://github.com/Nazmul1932
 
