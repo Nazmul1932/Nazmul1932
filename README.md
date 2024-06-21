@@ -29,7 +29,7 @@ _Statistics from: June 20, 2024_
 
 
   
-<span style="font-size: 100px;">**Frameworks:**</span>
+<span style="font-size: 100px;">## **Frameworks:**</span>
 <br>
    <img src="https://img.shields.io/badge/Selenium-009933?style=for-the-badge&logo=selenium&logoColor=white" style="height: 40px; width: auto;"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="height: 40px; width: auto;"/>
