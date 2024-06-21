@@ -19,7 +19,7 @@ _Statistics from: June 20, 2024_
 
 ## 🛠️ Technologies and Tools
 
-- **Programming Languages:**
+<span style="font-size: 20px;">**Programming Languages:**</span>
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" height="40"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="40"/>
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="40"/>
