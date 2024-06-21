@@ -21,7 +21,7 @@ _Statistics from: June 20, 2024_
 
 <span style="font-size: 50px;">**Programming Languages:**</span>
 <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Java-B3E5FC?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
    <img src="https://img.shields.io/badge/TypeScript-64B5F6?style=for-the-badge&logo=typescript&logoColor=black" height="40"/>
