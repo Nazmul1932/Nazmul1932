@@ -25,6 +25,7 @@ _Statistics from: June 20, 2024_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript)](https://github.com/Nazmul1932/playwright_and_typescript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_java)](https://github.com/Nazmul1932/cypress_with_java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js)](https://github.com/Nazmul1932/cypress_with_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Nazmul1932)](https://github.com/Nazmul1932/Nazmul1932)
 
 ## 🛠️ Technologies and Tools
 
