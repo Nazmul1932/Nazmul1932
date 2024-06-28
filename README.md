@@ -21,11 +21,11 @@ _Statistics from: June 20, 2024_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=donut-vertical)](https://github.com/Nazmul1932/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Java-and-appium&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/Java-and-appium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=java_and_playwright&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033)](https://github.com/Nazmul1932/java_and_playwright)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033)](https://github.com/Nazmul1932/playwright_and_typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_java&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033)](https://github.com/Nazmul1932/cypress_with_java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033)](https://github.com/Nazmul1932/cypress_with_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Nazmul1932&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033)](https://github.com/Nazmul1932/Nazmul1932)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=java_and_playwright&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/java_and_playwright)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/playwright_and_typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_java&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/cypress_with_java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/cypress_with_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Nazmul1932&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/Nazmul1932)
 
 
 ## 🛠️ Technologies and Tools
