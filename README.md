@@ -13,12 +13,12 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 ## 📊 GitHub Stats
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932&show_icons=true&theme=cobalt)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932&show_icons=true&theme=merko)
 
 
 _Statistics from: June 20, 2024_
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=merko)
 
 ## 🛠️ Technologies and Tools
 
