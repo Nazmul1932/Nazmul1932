@@ -20,6 +20,8 @@ _Statistics from: June 20, 2024_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=github-readme-stats)](https://github.com/Nazmul1932/github-readme-stats)
+
 ## 🛠️ Technologies and Tools
 
 <span style="font-size: 100px;">**Programming Languages:**</span>
