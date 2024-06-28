@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Nazmul1932&color=blue)
 
 ## 👨‍💻 About Me
 
