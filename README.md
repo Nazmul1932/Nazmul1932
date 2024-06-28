@@ -18,7 +18,7 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 
 _Statistics from: June 20, 2024_
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=cobalt)
 
 ## 🛠️ Technologies and Tools
 
