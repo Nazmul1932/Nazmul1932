@@ -20,6 +20,8 @@ _Statistics from: June 20, 2024_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=donut-vertical)](https://github.com/Nazmul1932/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Java-and-appium&show_owner=true)](https://github.com/Nazmul1932/Java-and-appium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=java_and_playwright&show_owner=true)](https://github.com/Nazmul1932/java_and_playwright)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript&show_owner=true)](https://github.com/Nazmul1932/playwright_and_typescript)
