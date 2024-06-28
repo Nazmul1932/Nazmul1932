@@ -13,7 +13,7 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 ## 📊 GitHub Stats
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul1932&theme=radical)
-
+![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=Nazmul1932&theme=radical)
 
 
 _Statistics from: June 20, 2024_
