@@ -27,7 +27,7 @@ _Statistics from: June 20, 2024_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js&show_owner=true)](https://github.com/Nazmul1932/cypress_with_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Nazmul1932&show_owner=true)](https://github.com/Nazmul1932/Nazmul1932)
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nazmul1932)](https://github.com/Nazmul1932/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nazmul1932)]
 
 ## 🛠️ Technologies and Tools
 
