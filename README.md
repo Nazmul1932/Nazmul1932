@@ -20,11 +20,11 @@ _Statistics from: June 20, 2024_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=compact&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Java-and-appium)](https://github.com/Nazmul1932/Java-and-appium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=java_and_playwright)](https://github.com/Nazmul1932/java_and_playwright)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript)](https://github.com/Nazmul1932/playwright_and_typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_java)](https://github.com/Nazmul1932/cypress_with_java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js)](https://github.com/Nazmul1932/cypress_with_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Java-and-appium&show_owner=true)](https://github.com/Nazmul1932/Java-and-appium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=java_and_playwright&show_owner=true)](https://github.com/Nazmul1932/java_and_playwright)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=playwright_and_typescript&show_owner=true)](https://github.com/Nazmul1932/playwright_and_typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_java&show_owner=true)](https://github.com/Nazmul1932/cypress_with_java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=cypress_with_js&show_owner=true)](https://github.com/Nazmul1932/cypress_with_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Nazmul1932&show_owner=true)](https://github.com/Nazmul1932/Nazmul1932)
 
 ## 🛠️ Technologies and Tools
