@@ -14,6 +14,8 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932)](https://github.com/anuraghazra/github-readme-stats)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932&show_icons=true)
+
 
 _Statistics from: June 20, 2024_
 
