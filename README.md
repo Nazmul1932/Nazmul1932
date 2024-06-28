@@ -13,8 +13,8 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932&show_icons=true&theme=radical&cache_seconds=1800)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Nazmul1932/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Nazmul1932/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 _Statistics from: June 20, 2024_
