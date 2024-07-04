@@ -10,14 +10,6 @@ Hello! I'm Nazmul Hossain, a passionate QA Engineer. I enjoy working on exciting
 - 🌱 Currently learning Technologies: **Java**, **Python**, **Cypress**, **Selenium**, **Playwright**
 - 📫 How to reach me: bsse1032@iit.du.ac.bd
 
-## 📊 GitHub Stats
-
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul1932&show_icons=true&theme=light)
-
-
-_Statistics from: June 20, 2024_
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1932&layout=donut-vertical)](https://github.com/Nazmul1932/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nazmul1932&repo=Java-and-appium&show_owner=true&title_color=00997a&icon_color=006699&border_color=000033&border_radius=10.5)](https://github.com/Nazmul1932/Java-and-appium)
